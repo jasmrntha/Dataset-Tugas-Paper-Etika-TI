@@ -1,16 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Jasmine Saimarantha Boru"
-  given-names: "Ginting"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Maureen Ghassani"
-  given-names: "Fadhliphya"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Mirna"
-  given-names: "Irawan"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Ginting"
+  given-names: "Jasmine Saimarantha Boru"
+- family-names: "Fadhliphya"
+  given-names: "Maureen Ghassani"
+- family-names: "Irawan"
+  given-names: "Mirna"
 title: "Dataset-Tugas-Paper-Etika-TI"
 version: 1.2.0
-doi: 10.5281/zenodo.1234
+doi: "https://doi.org/10.5281/zenodo.11319839"
 date-released: 2024-05-27
+url: "https://github.com/jasmrntha/Dataset-Tugas-Paper-Etika-TI"
